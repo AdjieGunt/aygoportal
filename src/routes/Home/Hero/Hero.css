@@ -1,0 +1,13 @@
+.container {
+  padding: 52px;
+}
+
+.hero-title {
+  margin-top: 24px !important;
+  text-align: center;
+}
+
+.hero-images {
+  margin: 0 auto;
+  text-align: center;
+}
